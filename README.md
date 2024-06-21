@@ -23,4 +23,4 @@
 
    # Version 1 Images
 
-   ![ezcv logo]
+   ![ezcv logo](https://github.com/LemuelBenitez/Emojipedia/blob/main/Screenshot%202024-06-04%20at%2012.22.37%E2%80%AFPM.png)
